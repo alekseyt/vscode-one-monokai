@@ -105,6 +105,7 @@
     {
       "name": "Variable",
       "scope": [
+        "variable",
         "variable.readwrite",
         "variable.readwrite.other.block"
       ],
